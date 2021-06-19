@@ -1,5 +1,5 @@
 public class Person {
-Person(){
+Person(int pr){
 }
 
 public void m1() {
